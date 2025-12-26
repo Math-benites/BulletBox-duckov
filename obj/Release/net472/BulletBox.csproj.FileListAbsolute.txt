@@ -1,0 +1,9 @@
+C:\Users\Benites\Desktop\MOD ESCAPE\BulletBox\obj\Release\net472\BulletBox.csproj.AssemblyReference.cache
+C:\Users\Benites\Desktop\MOD ESCAPE\BulletBox\obj\Release\net472\BulletBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benites\Desktop\MOD ESCAPE\BulletBox\obj\Release\net472\BulletBox.AssemblyInfoInputs.cache
+C:\Users\Benites\Desktop\MOD ESCAPE\BulletBox\obj\Release\net472\BulletBox.AssemblyInfo.cs
+C:\Users\Benites\Desktop\MOD ESCAPE\BulletBox\obj\Release\net472\BulletBox.csproj.CoreCompileInputs.cache
+C:\Users\Benites\Desktop\MOD ESCAPE\BulletBox\bin\Release\net472\BulletBox.dll
+C:\Users\Benites\Desktop\MOD ESCAPE\BulletBox\bin\Release\net472\BulletBox.pdb
+C:\Users\Benites\Desktop\MOD ESCAPE\BulletBox\obj\Release\net472\BulletBox.dll
+C:\Users\Benites\Desktop\MOD ESCAPE\BulletBox\obj\Release\net472\BulletBox.pdb
