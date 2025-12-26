@@ -42,7 +42,7 @@ If you want to contribute:
 1. Fork the repository.
 2. Clone your fork:
    ```
-   git clone <your-fork-url>
+   git clone https://github.com/Math-benites/BulletBox-duckov.git
    ```
 3. Create a branch:
    ```
